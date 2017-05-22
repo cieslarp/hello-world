@@ -1,6 +1,6 @@
 # hello-world changed again, in a new branch!
-1. apple
-2. orange
-3. pear
-4. grape
-5. fifth
+1. Apple
+2. Orange
+3. Pear
+4. Grapes
+5. Fifth
